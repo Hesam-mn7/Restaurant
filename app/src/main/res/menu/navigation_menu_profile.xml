@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="تنظیمات" />
+    <item
+        android:id="@+id/nav_archive"
+        android:title="ارشیو" />
+
+    <item
+        android:id="@+id/nav_close_friends"
+        android:title="سلام" />
+    <item
+        android:id="@+id/nav_covid19"
+        android:title="بای" />
+
+</menu>
